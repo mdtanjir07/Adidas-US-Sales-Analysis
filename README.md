@@ -55,3 +55,6 @@ Region-wise growth patterns
 In-store vs Online vs Outlet sales comparison.
 
 Customer purchasing behavior trends.
+Dashboard Screenshot
+<img width="1492" height="827" alt="Screenshot 2025-12-01 213644" src="https://github.com/user-attachments/assets/318bb8b2-f16b-4191-88e9-1dc6cbea7fe8" />
+
